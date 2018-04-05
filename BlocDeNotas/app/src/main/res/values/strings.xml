@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bloc De Notas</string>
+    <string name="add_nota">Add/Edit nota</string>
+    <string name="ver_nota">Visualización de la nota</string>
+    <string name="menu_crear">Crear nota</string>
+    <string name="menu_editar">BlocDeNotas</string>
+    <string name="menu_eliminar">Eliminar nota</string>
+    <string name="menu_borrar_todas">Borrar todas</string>
+    <string name="menu_salir">Salir</string>
+
+
+</resources>
